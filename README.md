@@ -27,7 +27,7 @@
 ## Voluntary Experience 👔
 - **Proofreader**
   - Lossi 36 (2020-2022)
-- **Representative to the Swedish Civil Society Network**
+- **Representative to the Swedish Civil Society's Eastern Partnership Network**
   - Swedish Association of International Affairs (SAIA) (2019-2021)
 - **Vice President**
   - Association of Foreign Affairs (UPF) in Lund (2017-2018)
