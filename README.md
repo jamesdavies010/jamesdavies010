@@ -1,9 +1,3 @@
-## About Me
-- 🔭 I’m currently working on improving my knowledge of Python and credit risk
-- 🤔 I’m looking for a job in data analytics and risk management
-- 💬 Ask me about SQL, Tableau, anything related to Cuban salsa or good non-fiction books to read
-- 📫 How to reach me: jamesdavies010@hotmail.co.uk
-
 ## Education 🎓
 - **Master of Science in Energy Economics and Finance**
   - University of Aberdeen, UK (Sep. 2022-Dec. 2024)
