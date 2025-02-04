@@ -11,9 +11,6 @@ A machine learning model using **logistic regression** to estimate credit risk a
 ### 🔹 [Cohort Analysis Using SQL and Excel](https://github.com/jamesdavies010/Cohort_Analysis_Using_SQL_and_Excel)
 An analysis using **retention metrics** to track customer behavior and help businesses understand **when and why customers unsubscribe**.
 
-### 🔹 [Financial Analysis – Oil Field Development](https://github.com/jamesdavies010/Financial_Analysis_Oil_Field)
-A **financial model** for investment decisions in oil field projects, incorporating **Monte Carlo simulations** and **scenario analysis**.
-
 ## 🚀 Skills & Tools
 - **Programming:** SQL (BigQuery), Python (Pandas, NumPy, scikit-learn, statsmodels)
 - **Data Visualization:** Tableau, Matplotlib, Plotly
