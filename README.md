@@ -16,8 +16,5 @@ An analysis using **retention metrics** to track customer behavior and help busi
 - **Data Visualization:** Tableau, Matplotlib, Plotly
 - **Analytics & Modeling:** A/B testing, regression analysis
 
-## 🌍 About Me
-I'm currently a **Junior Team Lead in Data Analytics** at Turing College, where I support learners in developing their **data skills**. When I’m not working with data, I enjoy **Cuban salsa, padel, golf, and exploring the history of Russia and Central Asia.**
-
 ## 💡 Let's Connect!
 If you’re interested in **collaborating on projects** or just want to chat about data analytics, feel free to reach out! I’d love to hear your thoughts and insights.
