@@ -8,7 +8,7 @@ I’ve been working on some interesting projects and would love to hear **your t
 ### 🔹 [Credit Risk Analysis](https://github.com/jamesdavies010/Credit_Risk_Analysis_HMEQ)
 A machine learning model using **logistic regression** to estimate credit risk and align with **international banking regulations**.
 
-### 🔹 [Cohort Analysis Using SQL and Excel]([https://github.com/jamesdavies010/Cohort_Analysis_Using_SQL_and_Excel](https://github.com/jamesdavies010/SQL-and-Tableau-projects/tree/main/Customer%20retention%20analysis%20using%20SQL%20and%20Excel))
+### 🔹 [Cohort Analysis Using SQL and Excel]([https://github.com/jamesdavies010/SQL-and-Tableau-projects/tree/main/Customer%20retention%20analysis%20using%20SQL%20and%20Excel])
 An analysis using **retention metrics** to track customer behavior and help businesses understand **when and why customers unsubscribe**.
 
 ## 🚀 Skills & Tools
