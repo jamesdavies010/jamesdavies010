@@ -14,9 +14,6 @@ An analysis using **retention metrics** to track customer behavior and help busi
 ### 🔹 [Customer Segmentation Analysis Using SQL and Tableau](https://github.com/jamesdavies010/SQL-and-Tableau-projects/tree/main/Customer%20segmentation%20using%20RFM%20analysis)
 An analysis using **segmentation metrics** (recency, frequency, monetary) to categorise customers based on their purchasing behaviour and help businesses **refine their sales strategies**.
 
-### 🔹 [Financial Analysis of an Oil Field Using Excel](https://github.com/jamesdavies010/Financial_Analysis_Oil_Field)
-A **discounted cash flow** analysis using NPV (net present value) to assess the viability of an oil field. Further analysis using **scenario analysis** and a **Monte Carlo simulation** assessed the sensitivity of NPV to key variables. (This analysis can be easily adapted for wind and solar projects.)
-
 ## 🚀 Skills & Tools
 - **Programming:** SQL (BigQuery), Python (Pandas, NumPy, scikit-learn, statsmodels)
 - **Data Visualization:** Tableau, Matplotlib, Plotly
